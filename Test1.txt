@@ -1,0 +1,7 @@
+int x = 10;
+float total = x + 25.5;
+// calculate new value
+total = total * 2;
+if (total > 50) {
+    print(total);
+}
