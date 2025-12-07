@@ -1,0 +1,8 @@
+int count1 = 0;
+float _temp = 12.75;
+
+count1 = count1 + _temp * 3;
+
+if (count1 <= 50) {
+    print(count1);
+}
